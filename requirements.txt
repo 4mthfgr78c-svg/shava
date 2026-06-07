@@ -1,0 +1,2 @@
+echo "aiogram==3.3.0" > requirements.txt
+echo "python-dotenv==1.0.0" >> requirements.txt
