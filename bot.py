@@ -1,4 +1,3 @@
-cat > bot.py << 'EOF'
 import asyncio
 import json
 import os
